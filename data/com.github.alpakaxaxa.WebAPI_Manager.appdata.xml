@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2020 Stephan Müller stephan.dint.mueller@gmail.com -->
+<component type="desktop">
+  <id>com.github.alpakaxaxa.WebAPI_Manager</id>
+  <metadata_license>CC0</metadata_license>
+  <name>WebAPI Manager</name>
+  <summary>Manage APIs in style</summary>
+  <description>
+    <p>Discover new web APIs and manage your existing accounts on central location</p>
+  </description>
+</component>
